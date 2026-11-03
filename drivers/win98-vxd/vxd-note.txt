@@ -1,0 +1,12 @@
+; Conceptual Win98 VxD skeleton note
+; Real VxD development requires the Windows 98 DDK and VMM headers.
+;
+; Typical structure used Declare_Virtual_Device and control procedures.
+;
+; Example idea (not compilable as-is):
+;
+; Declare_Virtual_Device MYVXD, 1, 0, MYVXD_Control, UNDEFINED_DEVICE_ID, UNDEFINED_INIT_ORDER
+;
+; BeginProc MYVXD_Control
+;   ...
+; EndProc MYVXD_Control
