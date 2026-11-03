@@ -1,0 +1,16 @@
+; More Logo turtle graphics examples
+
+TO CIRCLE :SIZE
+  REPEAT 36 [FD :SIZE RT 10]
+END
+
+TO STAR :SIZE
+  REPEAT 5 [FD :SIZE RT 144]
+END
+
+CS
+STAR 80
+PU
+RT 90 FD 150
+PD
+CIRCLE 5
