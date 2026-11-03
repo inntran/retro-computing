@@ -17,6 +17,8 @@
 - **Classic ASP** — IIS 上的服务端脚本，ADO 连数据库。
 - **JSP** — JavaServer Pages，早期 Java Web 开发主流之一。
 - **JSF** — JavaServer Faces，组件化 Java Web 框架。
+- **早期 Spring** — Spring 1.x/2.x，XML 配置的 IoC 时代。
+- **SSH 框架** — Struts + Spring + Hibernate，2000年代中期非常流行的 Java Web 栈。
 - **Crystal Reports** — 报表工具，广泛用于 VB6、ASP 和早期 .NET。
 - **.NET Framework 2.0 / 3.5** — 早期管理代码时代。
 - **VxD 驱动 (Win9x)** — 9x 时代的虚拟设备驱动。
