@@ -14,4 +14,4 @@ NT 4.0 domains used SAM database, trust relationships, and NetLogon.
 2. Join Windows 95/98/NT workstations to the domain.
 3. Use User Manager for Domains.
 
-Useful for understanding the evolution to AD. Run in VMs (TrueNAS KVM).
+Useful for understanding the evolution to AD. Run in VMs on a home server hypervisor or local virtualization software.
