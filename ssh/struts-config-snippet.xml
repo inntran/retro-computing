@@ -1,0 +1,15 @@
+<!-- Conceptual struts-config.xml snippet (Struts 1.x style) -->
+<struts-config>
+  <form-beans>
+    <form-bean name="userForm" type="example.UserForm" />
+  </form-beans>
+
+  <action-mappings>
+    <action path="/saveUser"
+            type="example.SaveUserAction"
+            name="userForm"
+            scope="request">
+      <forward name="success" path="/success.jsp" />
+    </action>
+  </action-mappings>
+</struts-config>
