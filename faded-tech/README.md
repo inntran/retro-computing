@@ -15,10 +15,15 @@
 - **Delphi** — Object Pascal，以高效和组件库闻名。
 - **Authorware** — 图标式多媒体创作，CBT/教学软件主流。
 - **Classic ASP** — IIS 上的服务端脚本，ADO 连数据库。
+- **ASP.NET Web Forms** — .NET 时代的主流 Web 技术（控件 + Postback）。
 - **JSP** — JavaServer Pages，早期 Java Web 开发主流之一。
 - **JSF** — JavaServer Faces，组件化 Java Web 框架。
 - **早期 Spring** — Spring 1.x/2.x，XML 配置的 IoC 时代。
+- **早期 Spring MVC** — XML 配置的 Spring Web 框架。
 - **SSH 框架** — Struts + Spring + Hibernate，2000年代中期非常流行的 Java Web 栈。
+- **Struts2** — Struts 的后续版本，拦截器模型。
+- **MyBatis / iBATIS** — SQL 映射框架，常作为 Hibernate 的轻量替代。
+- **ColdFusion** — CFML 标签语言，快速 Web 开发平台。
 - **Crystal Reports** — 报表工具，广泛用于 VB6、ASP 和早期 .NET。
 - **.NET Framework 2.0 / 3.5** — 早期管理代码时代。
 - **VxD 驱动 (Win9x)** — 9x 时代的虚拟设备驱动。
