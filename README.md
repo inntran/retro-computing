@@ -14,7 +14,12 @@ Each folder contains README.md with setup instructions for virtual disk images t
 - `jsp/` — JavaServer Pages
 - `jsf/` — JavaServer Faces
 - `spring-early/` — Early Spring (1.x/2.x, XML config)
+- `spring-mvc-early/` — Early Spring MVC
 - `ssh/` — SSH framework (Struts + Spring + Hibernate)
+- `struts2/` — Struts2
+- `mybatis-ibatis/` — MyBatis / iBATIS
+- `coldfusion/` — ColdFusion (CFML)
+- `aspnet/` — ASP.NET Web Forms
 - `crystal-reports/` — Crystal Reports (VB6 / ASP / .NET era)
 - `drivers/` — Win98 VxD and Win2000/XP WDM driver development
 - `netware/` — Novell NetWare DOS and Windows clients
@@ -26,7 +31,7 @@ Each folder contains README.md with setup instructions for virtual disk images t
 
 ## Once-Popular Technologies Covered
 
-Turbo Pascal, VB6, Delphi, Authorware, Classic ASP, JSP, JSF, early Spring, SSH (Struts+Spring+Hibernate), Crystal Reports, early DirectX/OpenGL, UCDOS, NetWare, NT Domains, VxD drivers, etc.
+Turbo Pascal, VB6, Delphi, Authorware, Classic ASP, ASP.NET Web Forms, JSP, JSF, early Spring, Spring MVC, SSH, Struts2, MyBatis/iBATIS, ColdFusion, Crystal Reports, early DirectX/OpenGL, UCDOS, NetWare, NT Domains, VxD drivers, etc.
 
 ## Quick Start
 
