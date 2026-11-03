@@ -13,6 +13,8 @@ Each folder contains README.md with setup instructions for virtual disk images t
 - `vba-vsto/` — VBA and Visual Studio Tools for Office
 - `jsp/` — JavaServer Pages
 - `jsf/` — JavaServer Faces
+- `spring-early/` — Early Spring (1.x/2.x, XML config)
+- `ssh/` — SSH framework (Struts + Spring + Hibernate)
 - `crystal-reports/` — Crystal Reports (VB6 / ASP / .NET era)
 - `drivers/` — Win98 VxD and Win2000/XP WDM driver development
 - `netware/` — Novell NetWare DOS and Windows clients
@@ -24,7 +26,7 @@ Each folder contains README.md with setup instructions for virtual disk images t
 
 ## Once-Popular Technologies Covered
 
-Turbo Pascal, VB6, Delphi, Authorware, Classic ASP, JSP, JSF, Crystal Reports, early DirectX/OpenGL, UCDOS, NetWare, NT Domains, VxD drivers, etc.
+Turbo Pascal, VB6, Delphi, Authorware, Classic ASP, JSP, JSF, early Spring, SSH (Struts+Spring+Hibernate), Crystal Reports, early DirectX/OpenGL, UCDOS, NetWare, NT Domains, VxD drivers, etc.
 
 ## Quick Start
 
