@@ -1,0 +1,7 @@
+-- Authorware Calculation icon example (paste into a Calc icon)
+-- Draw a rectangle and do simple math
+
+Box(1, 50, 50, 200, 150)
+score := 100
+score := score + 10
+WriteExtFile("result.txt", "Score: " ^ score)
