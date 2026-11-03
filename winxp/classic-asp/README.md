@@ -26,4 +26,4 @@ conn.Close
 - Create Access .mdb or use SQL Express
 - Place .asp files in wwwroot
 
-Virtual machine image recommended on TrueNAS KVM.
+Virtual machine image recommended on a home server hypervisor (KVM/QEMU, Proxmox, etc.) or local VirtualBox/VMware.
