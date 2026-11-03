@@ -1,0 +1,12 @@
+' Conceptual Crystal Reports usage from VB6
+' Requires Crystal Reports ActiveX controls / runtime installed.
+
+' Typical steps (simplified):
+' 1. Add Crystal Reports control to the form, or use late binding.
+' 2. Set the report file path.
+' 3. Optionally set database login / parameters.
+' 4. Call View or Print.
+
+' Example idea:
+' CrystalReport1.ReportFileName = "C:\Reports\Sales.rpt"
+' CrystalReport1.Action = 1   ' 1 = preview
