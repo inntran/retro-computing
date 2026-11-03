@@ -1,0 +1,10 @@
+# Example NET.CFG fragment for Novell NetWare DOS client (VLM / Client32)
+
+Link Driver NE2000
+    FRAME Ethernet_802.2
+    FRAME Ethernet_II
+
+NetWare DOS Requester
+    FIRST NETWORK DRIVE = F
+    PREFERRED SERVER = MYSERVER
+    NAME CONTEXT = "OU=USERS.O=COMPANY"
