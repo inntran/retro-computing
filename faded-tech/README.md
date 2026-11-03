@@ -9,12 +9,15 @@
 - **UCDOS** — 中国 DOS 时代主流中文平台，支持直接写屏和特显。
 - **Turbo Vision** — Borland 的字符模式 TUI 框架，用于 IDE 和工具软件。
 
-## Windows 时代
+## Windows / Java Web 时代
 
 - **Visual Basic 6** — RAD 之王，大量商业和企业应用。
 - **Delphi** — Object Pascal，以高效和组件库闻名。
 - **Authorware** — 图标式多媒体创作，CBT/教学软件主流。
 - **Classic ASP** — IIS 上的服务端脚本，ADO 连数据库。
+- **JSP** — JavaServer Pages，早期 Java Web 开发主流之一。
+- **JSF** — JavaServer Faces，组件化 Java Web 框架。
+- **Crystal Reports** — 报表工具，广泛用于 VB6、ASP 和早期 .NET。
 - **.NET Framework 2.0 / 3.5** — 早期管理代码时代。
 - **VxD 驱动 (Win9x)** — 9x 时代的虚拟设备驱动。
 - **Novell NetWare** — 企业网络主导，后被 TCP/IP + AD 取代。
