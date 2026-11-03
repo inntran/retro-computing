@@ -1,0 +1,9 @@
+; Conceptual Windows 2000/XP WDM driver note
+; Real development uses the Windows DDK (XP or Server 2003 DDK).
+;
+; Typical entry points:
+; - DriverEntry
+; - AddDevice
+; - Dispatch routines (IRP_MJ_CREATE, IRP_MJ_DEVICE_CONTROL, etc.)
+;
+; Build with the DDK build environment (setenv.bat + build).
